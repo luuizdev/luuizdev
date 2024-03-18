@@ -1,3 +1,10 @@
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 🙏🏻, I'm Luiz Fernando!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em> FrontEnd Developer <a href="https://www.linkedin.com/in/luizfernandolf/">OneOrigin
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
 <p align="center">I ❤️ solve big challenges using technology. <br><br> From backend development to frontend development, I am <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I'm an <strong>entry-level full stack developer</strong> focused on web development.</p>&nbsp;
 
  &nbsp;
@@ -39,8 +46,7 @@
 <a href = "mailto:contato.luuizf800@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luizfernandolf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
 
-  
+ 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
